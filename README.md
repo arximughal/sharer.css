@@ -1,5 +1,6 @@
-Sharer.js with CSS  <small>Beautiful Sharer.js buttons with CSS3 only</small>
+Sharer.js with CSS
 -----------------------------------------------------------------------------
+#### Beautiful Sharer.js buttons with CSS3 only
 
 A small extention for the plugin [Sharer.js] by [Ellison Leão].
 
