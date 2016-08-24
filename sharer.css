@@ -10,10 +10,10 @@
  *
  */
 button { font-family: 'Roboto', sans-serif;}
-.btn { color: #333; background: #e6e6e6; padding: 12px 24px 12px 24px; text-transform: uppercase; border-top: 0px; border-left: 0px; border-right: 0px; border-bottom: 4px solid #ccc; border-radius: 4px; font-weight: bold; opacity: 0.7; outline: none; cursor: pointer; }
-.btn:hover { opacity: 1; }
-.btn:active { -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); -moz-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); -o-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); box-shadow: inset 0 3px 5px rgba(0,0,0,.125); border-bottom: 2px solid #0084b4; border-spacing: 4px; }
-.btn:focus { outline: none; }
+.sharer-btn { color: #333; background: #e6e6e6; padding: 12px 24px 12px 24px; text-transform: uppercase; border-top: 0px; border-left: 0px; border-right: 0px; border-bottom: 4px solid #ccc; border-radius: 4px; font-weight: bold; opacity: 0.7; outline: none; cursor: pointer; }
+.sharer-btn:hover { opacity: 1; }
+.sharer-btn:active { -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); -moz-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); -o-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); box-shadow: inset 0 3px 5px rgba(0,0,0,.125); border-bottom: 2px solid #0084b4; border-spacing: 4px; }
+.sharer-btn:focus { outline: none; }
 button[data-sharer=twitter] { background: #00aced; color: #fff; border-color: #0084b4; }
 button[data-sharer=facebook] { background: #3b5998; color: #fff; border-color: #19397D; }
 button[data-sharer=linkedin] { background: #0077B5; color: #fff; border-color: #005481; }
