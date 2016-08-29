@@ -1,6 +1,6 @@
 Sharer.css | CSS Extension for Sharer.js
 -----------------------------------------------------------------------------
-#### Beautiful Sharer.js buttons with CSS3 only
+#### Beautiful Sharer.js buttons with CSS3 only : `DEMO`
 
 A small extention for the plugin [Sharer.js] by [Ellison Leão].
 
@@ -18,3 +18,4 @@ When using [Sharer.js], just use `sharer-btn` class with every sharer.js `<butto
 
   [Sharer.js]: https://github.com/ellisonleao/sharer.js
   [Ellison Leão]: https://github.com/ellisonleao
+  [DEMO]: https://arximughal.github.io/sharer.css/
