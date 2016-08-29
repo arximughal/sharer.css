@@ -1,4 +1,4 @@
-Sharer.js with CSS
+Sharer.css | CSS Extension for Sharer.js
 -----------------------------------------------------------------------------
 #### Beautiful Sharer.js buttons with CSS3 only
 
