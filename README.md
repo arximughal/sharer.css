@@ -39,10 +39,6 @@ Your final webpage should look something like this (I'll use [rawgit.com] in the
 </html>
 ```
 
-Stay tuned for more 🎉🎉
--------
-I'll be updating sharer.css and releasing it's first version (1.0) in the coming week, which will bring a lots of new styles and some cool CSS transitions . Happy coding!
-
 
   [Sharer.js]: https://github.com/ellisonleao/sharer.js
   [Ellison Leão]: https://github.com/ellisonleao
